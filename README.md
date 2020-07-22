@@ -1,3 +1,3 @@
 # fipped
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fipped.fipped)
+[![Visits Badge](https://badges.pufler.dev/visits/fipped/fipped)](https://badges.pufler.dev)

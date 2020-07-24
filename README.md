@@ -30,7 +30,10 @@ Hi :hand:, I'm your online friend **Wenjin Rao**. I love creative things and peo
 <!-- code_time starts -->
 
 ```text
-
+Go          3 hrs 48 mins  ████████████████████▋  98.2%
+Protocol Buffer 2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Markdown    1 min          ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->

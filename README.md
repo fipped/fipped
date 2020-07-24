@@ -20,7 +20,7 @@ Hi :hand:, I'm your online friend **Wenjin Rao**. I love creative things and peo
 </p>
 
 <p align="center">
-    <a href="https://github.com/fipped" target="_blank"><img  alt="alwinw" src="https://badges.pufler.dev/visits/fipped/fipped?logo=GitHub&label=visits&color=success&logoColor=white"/></a>
+    <a href="https://github.com/fipped" target="_blank"><img  alt="visits" src="https://badges.pufler.dev/visits/fipped/fipped?logo=GitHub&label=visits&color=success&logoColor=white"/></a>
     <a href="https://github.com/fipped" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/fipped/fipped?label=hits&style=flat"></a>
 </p>
 

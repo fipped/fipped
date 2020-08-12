@@ -30,11 +30,11 @@ Hi :hand:, I'm your online friend **Wenjin Rao**. I love creative things and peo
 <!-- code_time starts -->
 
 ```text
-Go          20 hrs 27 mins ███████████████▊░░░░░  75.3%
-Python      2 hrs 18 mins  █▊░░░░░░░░░░░░░░░░░░░   8.5%
-Makefile    1 hr 50 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
-Other       1 hr 23 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
-Git Config  17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Go          22 hrs 49 mins ███████████████▊░░░░░  75.5%
+Python      2 hrs 33 mins  █▊░░░░░░░░░░░░░░░░░░░   8.5%
+Makefile    1 hr 50 mins   █▎░░░░░░░░░░░░░░░░░░░   6.1%
+Other       1 hr 48 mins   █▎░░░░░░░░░░░░░░░░░░░   6.0%
+Git Config  17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time ends -->

@@ -31,11 +31,11 @@ Hi :hand:, I'm your online friend **Wenjin Rao**. I love creative things and peo
 <!-- code_time starts -->
 
 ```text
-Python      15 hrs 13 mins ██████████████▎░░░░░░  68.3%
-Markdown    2 hrs 39 mins  ██▌░░░░░░░░░░░░░░░░░░  12.0%
-YAML        1 hr 42 mins   █▌░░░░░░░░░░░░░░░░░░░   7.7%
-Makefile    1 hr 17 mins   █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Go          25 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Python      10 hrs 35 mins █████████████▍░░░░░░░  63.8%
+Markdown    2 hrs 39 mins  ███▎░░░░░░░░░░░░░░░░░  16.1%
+YAML        1 hr 28 mins   █▊░░░░░░░░░░░░░░░░░░░   8.9%
+Makefile    56 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
+INI         13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time ends -->

@@ -31,11 +31,11 @@ Hi :hand:, I'm your online friend **Wenjin Rao**. I love creative things and peo
 <!-- code_time starts -->
 
 ```text
-Go          22 hrs 16 mins █████████████████▏░░░  81.9%
-Protocol Buffer 1 hr 25 mins   █░░░░░░░░░░░░░░░░░░░░   5.2%
-Other       1 hr           ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-JavaScript  45 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
-Makefile    28 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Go          18 hrs 30 mins ████████████████▉░░░░  80.5%
+Protocol Buffer 1 hr 24 mins   █▎░░░░░░░░░░░░░░░░░░░   6.1%
+Other       59 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+JavaScript  45 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+YAML        30 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
 ```
 
 <!-- code_time ends -->

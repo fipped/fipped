@@ -31,11 +31,11 @@ Hi :hand:, I'm your online friend **Wenjin Rao**. I love creative things and peo
 <!-- code_time starts -->
 
 ```text
-Other       26 hrs 17 mins █████████████████▍░░░  82.8%
-TypeScript  5 hrs 14 mins  ███▍░░░░░░░░░░░░░░░░░  16.5%
-JSON        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Other       29 hrs 14 mins █████████████████▉░░░  85.3%
+TypeScript  4 hrs 46 mins  ██▉░░░░░░░░░░░░░░░░░░  13.9%
+JSON        5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 JavaScript  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Markdown    2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+YAML        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->

@@ -31,7 +31,9 @@ Hi :hand:, I'm your online friend **Wenjin Rao**. I love creative things and peo
 <!-- code_time starts -->
 
 ```text
-Other       14 hrs 25 mins █████████████████████ 100.0%
+Other       16 hrs 44 mins ██████████████████▏░░  86.7%
+TypeScript  2 hrs 34 mins  ██▊░░░░░░░░░░░░░░░░░░  13.3%
+JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->

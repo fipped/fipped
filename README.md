@@ -14,6 +14,7 @@ Hi :hand:, I'm your online friend **Wenjin Rao**. I love creative things and peo
     <a href="https://github.com/fipped?tab=repositories&language=go" target="_blank"><img alt="go" src="https://img.shields.io/badge/-go-0076C2?style=flat&logo=Go&logoColor=white"></a>
     <a href="https://github.com/fipped?tab=repositories&language=dart" target="_blank"><img alt="dart" src="https://img.shields.io/badge/-dart-1967D2?style=flat&logo=Dart&logoColor=white"></a>
     <a href="https://github.com/fipped?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-A7A32B?style=flat&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/fipped?tab=repositories&language=TypeScript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white"></a>
     <a href="https://github.com/fipped?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-php-127638?style=flat&logo=PHP&logoColor=white"></a>
     <a href="https://github.com/fipped?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-12A3D3?style=flat&logo=R&logoColor=white"></a>
     <a href="https://github.com/fipped?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat&logo=PowerShell&logoColor=white"></a>
